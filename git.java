@@ -13,5 +13,10 @@ asdasd
 =======
 mod1
 mod2
+<<<<<<< HEAD
+>>>>>>> test
+=======
+mod3
+mod4
 >>>>>>> test
 }
